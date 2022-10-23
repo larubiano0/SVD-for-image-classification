@@ -5,3 +5,6 @@ It has allowed to reduce one of the most common problems in Machine Learning: Ov
 Also, layers have been incorporated into convolutional networks, where data covariance matrices are decomposed by means of SVD: facilitating image classification. Improving Accuracy Metrics. Reducing computation time.
 
 Documentation will be soon added 
+
+Take a look at SVD_for_image_clas.pdf for more info (in Spanish)
+
